@@ -1,0 +1,39 @@
+# Código de propriedades de gráficos do Matplotlib
+
+# AXES
+axes.titlesize : 24
+axes.labelsize : 20
+axes.facecolor : white
+axes.edgecolor: green
+axes.labelcolor: green
+axes.linewidth: 1
+
+# Axes ticks
+xtick.labelsize : 16
+xtick.color : black
+ytick.labelsize : 16
+ytick.color : black
+
+plt.tick_params(bottom=True, top=False) 
+plt.tick_params(right=False, left=True) 
+
+
+# LINES
+lines.linewidth : 3
+lines.markersize : 10
+lines.facecolor: green
+
+
+# LEGEND
+legend.fontsize : 16
+legend.facecolor : yellow
+figure.figsize : 12, 8
+figure.dpi : 100
+figure.facecolor : white
+title.fontsize : 16
+title.color : black
+
+# GRID
+axes.grid: True
+grid.alpha: 1.0
+
