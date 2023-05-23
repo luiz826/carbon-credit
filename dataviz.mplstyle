@@ -37,3 +37,7 @@ title.color : black
 axes.grid: True
 grid.alpha: 1.0
 
+axes.spines.top: False
+axes.spines.right: False
+axes.spines.bottom: True
+axes.spines.left: True
