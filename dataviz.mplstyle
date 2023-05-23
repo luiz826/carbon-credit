@@ -5,7 +5,7 @@ axes.titlesize : 24
 axes.labelsize : 20
 axes.facecolor : white
 axes.edgecolor: green
-axes.labelcolor: green
+axes.labelcolor: black
 axes.linewidth: 1
 
 # Axes ticks
@@ -14,15 +14,10 @@ xtick.color : black
 ytick.labelsize : 16
 ytick.color : black
 
-plt.tick_params(bottom=True, top=False) 
-plt.tick_params(right=False, left=True) 
-
-
 # LINES
 lines.linewidth : 3
 lines.markersize : 10
 lines.facecolor: green
-
 
 # LEGEND
 legend.fontsize : 16
@@ -37,6 +32,7 @@ title.color : black
 axes.grid: True
 grid.alpha: 1.0
 
+# SPINES
 axes.spines.top: False
 axes.spines.right: False
 axes.spines.bottom: True
