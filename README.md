@@ -28,9 +28,7 @@ usando técnicas e métodos aplicáveis.
 
 CHAVES, Paulo Jair Soares. Mercado de Carbono: Uma Nova Realidade. Ciências
 Econômicas, Universidade Regional Do Nordeste Do Estado do Rio Grande do Sul.
-2015. Disponível em: <https://bibliodigital.unijui.edu.br:8443/xmlui/bitstream/
-handle/123456789/3502/paulo%20chaves%20-%20monografia.pdf?sequence=
-1&isAllowed=y>. Acesso em: 26 abr. 2023.
+2015. Disponível em: <https://bibliodigital.unijui.edu.br:8443/xmlui/bitstream/handle/123456789/3502/paulo%20chaves%20-%20monografia.pdf?sequence=1&isAllowed=y>. Acesso em: 26 abr. 2023.
 <br>
 
 Prolo, C.D., Penido, G., Santos, I.T., La Hoz Theuer, S. (2021). Explicando os mercados
