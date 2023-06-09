@@ -1,14 +1,20 @@
 <h1 align="center">
     <br>
-    <p align="center">Projeto de Visualização de Dados<p>
+    <p align="center">Estudo de Caso de Visualização de Dados - ECDV<p>
 </h1>
 
 <h2 align="center">
+    <p align="center">Mercado de Carbono<p>
+    <br>
     <p align="center">Disciplina: Introdução à Visualização de Dados<p>
     <p align="center">Professor: Gustavo C. Oliveira<p>
 </h2>
 
-<p align="justify"> Descendente dos Persas e Indianos, o xadrez surgiu em sua forma atual durante o renascimento, tornando-se mundialmente conhecido como um jogo de tabuleiro onde dois oponentes se enfrentam em uma batalha estratégica, para capturar o rei adversário.
+<p align="justify">Este Estudo de Caso de Visualização de Dados (ECVD) tem o objetivo de apresentar
+situações do mundo real sob o ponto de vista da visualização de dados, de modo a informar o público investidor
+iniciante sobre as características e oportunidades do mercado de carbono. O projeto visa elaborar soluções de
+visualização de dados de forma que crie-se uma identidade sobre o assunto, facilitando o entendimento do público,
+usando técnicas e métodos aplicáveis.
 
 ## Integrantes:
     - Caio Lucas da Silva Chacon     | Matrícula: 20200025769
