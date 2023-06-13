@@ -45,3 +45,5 @@ de 2023
     
 SUN,Joshua. Carbon Offset Credits Issued by Carbon Registries [Climate Action
 Reserve]. Kaggle. Disponível em: <https://www.kaggle.com/datasets/jsun13/carbonoffset-credits-issued-by-carbon-registries>. Acesso em 15 de maio de 2023.
+
+SIRENE.(2023). Emissões por Unidade Federativa. Ministério da Ciência, Tecnologia e Inovação. Disponível em: <https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene/emissoes/emissoes-por-unidade-federativa>. Acesso em: 26 abr. 2023.
